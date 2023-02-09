@@ -1,8 +1,8 @@
 # Rating Scale Scoring
 A Python script for calculating the confidence intervals for ratings data.
 
-  * Script: ScoreRatingScales.py
-  * Sample Data: FakeRatingsData.csv
+  * Script: Score_Rating_Scales.py
+  * Sample Data: Fake_Ratings_Data.csv
 
 ## About
 Scoring ratings data in a spreadsheet can be tedious. After each test, you may find 
@@ -33,9 +33,9 @@ the task time data you would like to score. Ideally, your column names do not co
 
 3. Save the data file to the same directory where your script is located.
 
-4. Open the script. Find the line **infile = 'FakeRatingsData.csv'** near the bottom of the page. 
+4. Open the script. Find the line **infile = 'Fake_Ratings_Data.csv'** near the bottom of the page. 
 
-5. Replace the 'FakeRatingsData.csv' with the name of your file. Be sure to include the '' around the entire file name and the '.csv' extension!
+5. Replace the 'Fake_Ratings_Data.csv' with the name of your file. Be sure to include the '' around the entire file name and the '.csv' extension!
 
 6. Find the line **scores = df['Ratings_1']** at the bottom of the page. Copy the column name from your file and paste it into the brackets. Be sure to include '' surrounding the column name. 
 
