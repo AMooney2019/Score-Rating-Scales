@@ -7,7 +7,8 @@ A Python script for calculating the confidence intervals for ratings data.
 ## About
 Scoring ratings data in a spreadsheet can be tedious. After each test, you may find 
 yourself making many spreadsheet adjustments. Data samples are rarely the same size, 
-and columns, rows, and formulas frequently need readjustment. It can be tedious.
+and columns, rows, and formulas frequently need readjustment. It can take a lot of 
+time and effort.
 
 The intent of this script is to ease the scoring process by allowing you to point to a 
 column of data within a .csv file and score it with minimal spreadsheet manipulation.
